@@ -1,0 +1,3 @@
+| nome_instancia | CPU_time | Hipervolume | Nr_Solucoes |
+| input/instancia-ASA-arred.txt | 21278.1 | 151.229 | 10 |
+| input/instancia-ASA-arred-v2.txt | 51640.2 | 11.4618 | 9 |
