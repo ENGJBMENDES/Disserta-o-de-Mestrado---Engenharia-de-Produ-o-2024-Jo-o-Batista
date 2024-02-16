@@ -1,0 +1,2 @@
+| nome_instancia | CPU_time | Hipervolume | Nr_Solucoes |
+| input/instancia-ASA-arred-v2-afterPowerModif.txt | 59614 | 0.659376 | 4 |
